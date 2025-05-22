@@ -3,7 +3,9 @@
 <p align="center">
   Desarrollador web 🧭 | Explorador de tecnologías 🌊 | Amante del aprendizaje 🍜  
   <br><br>
-  <img src="https://media.tenor.com/VLL0QU1L7dQAAAAC/luffy-one-piece.gif" width="220"/>
+ <p align="center">
+  <img src="https://media.tycsports.com/files/2024/04/17/704832/luffy_862x485.webp" width="400" />
+</p>
 </p>
 
 ---
@@ -38,14 +40,6 @@ React, Tailwind CSS, Electron, Node.js, Angular, PHP, Laravel y MySQL.
   <a href="mailto:juankmilo0511@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-## 🍖 Modo Luffy activado
-
-<p align="center">
-  <img src="https://media.tycsports.com/files/2024/04/17/704832/luffy_862x485.webp" width="400" />
 </p>
 
 ---
