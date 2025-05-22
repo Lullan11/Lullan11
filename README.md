@@ -45,7 +45,7 @@ React, Tailwind CSS, Electron, Node.js, Angular, PHP, Laravel y MySQL.
 ## 🍖 Modo Luffy activado
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif](https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/03/Featured-Image-Luffy.jpg)" width="400" />
+  <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/03/Featured-Image-Luffy.jpg" width="400" />
 </p>
 
 ---
