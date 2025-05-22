@@ -45,7 +45,7 @@ React, Tailwind CSS, Electron, Node.js, Angular, PHP, Laravel y MySQL.
 ## 🍖 Modo Luffy activado
 
 <p align="center">
-  <img src="https://media.tenor.com/WG4R-k7OtGMAAAAC/monkey-d-luffy-one-piece.gif" width="400" />
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="400" />
 </p>
 
 ---
