@@ -16,20 +16,41 @@
 
 ---
 
-## 📖 Bitácora del capitán
+## 🏴‍☠️ Sobre mí
 
-```js
-const Lullan = {
-  nombre: "Lullan",
-  rol: "Desarrollador Web",
-  habilidades: ["HTML", "CSS", "JavaScript"],
-  aprendiendo: ["React", "Tailwind", "Electron", "Angular", "Laravel"],
-  base: "Grand Line del Código",
-  sueño: "Crear herramientas increíbles con pasión",
-  frase: "Disfruta lo que haces y apasiónate por aprender, porque ser genuino es un acto de libertad."
-};
-📫 Envíame un Den Den Mushi
-<p align="center"> <a href="mailto:juankmilo0511@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-🍖 Modo Luffy activado
-<p align="center"> <img src="https://media.tenor.com/WG4R-k7OtGMAAAAC/monkey-d-luffy-one-piece.gif" width="400" /> </p>
-<p align="center"> 🏴‍☠️ ¡Gracias por visitar mi perfil! Nos vemos navegando entre líneas de código. ⚓ </p> ```
+Me llamo **Lullan**, soy un apasionado del desarrollo web. Me encanta crear sistemas útiles, interfaces modernas y aprender cada día nuevas herramientas para mejorar como desarrollador.  
+Disfruto del camino, me esfuerzo al máximo y siempre doy lo mejor de mí.
+
+**Tecnologías que manejo:**  
+HTML, CSS, JavaScript
+
+**Tecnologías que estoy aprendiendo:**  
+React, Tailwind CSS, Electron, Node.js, Angular, PHP, Laravel y MySQL.
+
+**Frase que me inspira:**  
+> “Disfruta lo que haces y apasiónate por aprender, porque ser genuino es un acto de libertad.”
+
+---
+
+## 📫 ¡Contáctame!
+
+<p align="center">
+  <a href="mailto:juankmilo0511@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🍖 Modo Luffy activado
+
+<p align="center">
+  <img src="https://media.tenor.com/WG4R-k7OtGMAAAAC/monkey-d-luffy-one-piece.gif" width="400" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ ¡Gracias por visitar mi perfil!  
+  Navegando entre líneas de código desde la Grand Line ⚓
+</p>
