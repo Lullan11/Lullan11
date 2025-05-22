@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Lullan
 
-<!--
-**Lullan11/Lullan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador web apasionado por crear experiencias digitales increíbles.  
+Actualmente trabajo con tecnologías frontend y backend, y siempre estoy aprendiendo nuevas herramientas para crecer cada día.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 HTML | CSS | JavaScript  
+- ⚛️ React | Tailwind CSS | Angular | Bootstrap  
+- 🖥️ Electron  
+- 🟢 Node.js  
+- 🐘 PHP | Laravel  
+- 🗄️ MySQL  
+
+## 📚 En proceso de aprendizaje
+
+Estoy constantemente explorando y mejorando mis habilidades en el mundo del desarrollo web y de aplicaciones.
+
+## 📫 ¡Conectemos!
+
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juankmilo0511@gmail.com)
+
+---
+
+> “Disfruta lo que haces y apasiónate por aprender, porque ser genuino es un acto de libertad.”
+
+⭐ ¡Gracias por visitar mi perfil!
