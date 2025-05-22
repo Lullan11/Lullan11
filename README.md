@@ -1,41 +1,35 @@
-<h1 align="center">¡Hola! 👋 Soy <b>Lullan</b></h1>
+<h1 align="center">☠️ ¡Yo soy Lullan, el futuro Rey del Código! 👨‍💻</h1>
 
 <p align="center">
-  Desarrollador Web apasionado por crear experiencias digitales increíbles.<br>
-  Siempre aprendiendo y explorando nuevas tecnologías.
+  Desarrollador web 🧭 | Explorador de tecnologías 🌊 | Amante del aprendizaje 🍜  
+  <br><br>
+  <img src="https://media.tenor.com/VLL0QU1L7dQAAAAC/luffy-one-piece.gif" width="220"/>
 </p>
 
 ---
 
-## 🚀 Tecnologías y habilidades
+## ⚓ Mi tripulación tecnológica
 
-<p align="center">
-  <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>React</code> <code>Tailwind CSS</code> <code>Angular</code> <code>Bootstrap</code><br>
-  <code>Electron</code> <code>Node.js</code> <code>PHP</code> <code>Laravel</code> <code>MySQL</code>
-</p>
-
----
-
-## 📚 En proceso de aprendizaje
-
-<p align="center">
-  Siempre mejorando y aprendiendo nuevas herramientas para crecer profesionalmente.
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,angular,bootstrap,nodejs,php,laravel,mysql,electron" />
+</div>
 
 ---
 
-## 📫 ¡Conectemos!
+## 📖 Bitácora del capitán
 
-<p align="center">
-  <a href="mailto:juankmilo0511@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-</p>
-
----
-
-> <p align="center"><i>“Disfruta lo que haces y apasiónate por aprender, porque ser genuino es un acto de libertad.”</i></p>
-
----
-
-⭐ ¡Gracias por visitar mi perfil!
+```js
+const Lullan = {
+  nombre: "Lullan",
+  rol: "Desarrollador Web",
+  habilidades: ["HTML", "CSS", "JavaScript"],
+  aprendiendo: ["React", "Tailwind", "Electron", "Angular", "Laravel"],
+  base: "Grand Line del Código",
+  sueño: "Crear herramientas increíbles con pasión",
+  frase: "Disfruta lo que haces y apasiónate por aprender, porque ser genuino es un acto de libertad."
+};
+📫 Envíame un Den Den Mushi
+<p align="center"> <a href="mailto:juankmilo0511@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+🍖 Modo Luffy activado
+<p align="center"> <img src="https://media.tenor.com/WG4R-k7OtGMAAAAC/monkey-d-luffy-one-piece.gif" width="400" /> </p>
+<p align="center"> 🏴‍☠️ ¡Gracias por visitar mi perfil! Nos vemos navegando entre líneas de código. ⚓ </p> ```
