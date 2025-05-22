@@ -1,4 +1,4 @@
-<h1 align="center">☠️ ¡Yo soy Lullan, el futuro Rey del Código! 👨‍💻</h1>
+<h1 align="center"> ¡Yo soy Lullan! </h1>
 
 <p align="center">
   Desarrollador web 🧭 | Explorador de tecnologías 🌊 | Amante del aprendizaje 🍜  
@@ -18,7 +18,7 @@
 
 ## 🏴‍☠️ Sobre mí
 
-Me llamo **Lullan**, soy un apasionado del desarrollo web. Me encanta crear sistemas útiles, interfaces modernas y aprender cada día nuevas herramientas para mejorar como desarrollador.  
+Me dicen **Lullan**, soy un apasionado del desarrollo web. Me encanta crear sistemas útiles, interfaces modernas y aprender cada día nuevas herramientas para mejorar como desarrollador.  
 Disfruto del camino, me esfuerzo al máximo y siempre doy lo mejor de mí.
 
 **Tecnologías que manejo:**  
@@ -52,5 +52,5 @@ React, Tailwind CSS, Electron, Node.js, Angular, PHP, Laravel y MySQL.
 
 <p align="center">
   ⭐ ¡Gracias por visitar mi perfil!  
-  Navegando entre líneas de código desde la Grand Line ⚓
+  Navegando entre líneas de código ⚓
 </p>
